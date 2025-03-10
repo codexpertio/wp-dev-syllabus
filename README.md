@@ -10,11 +10,11 @@ A structured learning path for mastering WordPress development. Follow the modul
 ---
 
 ## **Table of Contents**
-1. [Modules Overview](#modules-overview)
-2. [Prerequisites](#prerequisites)
-3. [How to Use](#how-to-use)
-4. [Contributing](#contributing)
-5. [License](#license)
+1. [Modules Overview](#modules-overview-)
+2. [Prerequisites](#prerequisites-)
+3. [How to Use](#how-to-use-)
+4. [Contributing](#contributing-)
+5. [License](#license-)
 
 ---
 
